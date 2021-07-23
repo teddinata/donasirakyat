@@ -6,7 +6,7 @@ const Api = axios.create({
     // baseURL: 'https://donasi.appdev.my.id/api'
     // baseURL: 'http://donasi.teddinata.com/api'
     // baseURL: 'http://backend-donasi.test/api'
-    baseURL: 'http://donasi.griyakoscilacap.com/api'
+    baseURL: 'https://donasi.griyakoscilacap.com/api'
 
 
 
