@@ -51,6 +51,7 @@
                         </div>
                     </div>
                 </a>
+                <h4 >Dibuat oleh <strong> Teddinata Kusuma</strong></h4>
 
             </div>
 
