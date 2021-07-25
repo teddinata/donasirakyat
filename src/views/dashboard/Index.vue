@@ -51,7 +51,9 @@
                         </div>
                     </div>
                 </a>
-                <h4 >Dibuat oleh <strong> Teddinata Kusuma</strong></h4>
+                <div class="text-center mt-5">
+                Dikembangkan oleh <strong>Teddinata Kusuma</strong>
+                </div>
 
             </div>
 

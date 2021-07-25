@@ -27,13 +27,14 @@
                         <button
                             class="bg-gray-700 py-1 px-3 text-white rounded-md shadow-md text-xl inline-block w-full focus:outline-none focus:bg-gray-900">MASUK</button>
                     </div>
-
+                    <div class="text-center mt-5">
+                        Belum punya akun ? <router-link :to="{name: 'register'}" class="underline text-blue-600">Daftar Sekarang
+                    !       </router-link>
+                    </div>
                 </div>
             </form>
-
-            <div class="text-center mt-5">
-                Belum punya akun ? <router-link :to="{name: 'register'}" class="underline text-blue-600">Daftar Sekarang
-                    !</router-link>
+             <div class="text-center mt-5">  
+                Dikembangkan oleh <strong>Teddinata Kusuma</strong>
             </div>
 
         </div>
